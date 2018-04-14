@@ -33,8 +33,8 @@ REMEMBER: Not every statistically significant result, is actually important for 
 Deliverables
 
 # Project Report
-1	What changes / assumptions you made while cleaning the data 
-2	List of marketing ideas you identified. Why these are interesting or important for amarketing manager. Exploratory analysis, if any, that led to these ideas. 
-3	The analysis, results and conclusions for three of the ideas that you chose for your presentation
-4	Include all SAS code in the Appendix. 
-5	Project Presentation as discussed above. 
+1.	What changes / assumptions you made while cleaning the data 
+2.	List of marketing ideas you identified. Why these are interesting or important for amarketing manager. Exploratory analysis, if any, that led to these ideas. 
+3.	The analysis, results and conclusions for three of the ideas that you chose for your presentation
+4.	Include all SAS code in the Appendix. 
+5.	Project Presentation as discussed above. 
